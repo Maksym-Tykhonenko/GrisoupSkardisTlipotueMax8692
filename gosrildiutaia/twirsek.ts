@@ -1,0 +1,23 @@
+// ...existing code...
+export default [
+  { id: 'q1-great-pyramid-giza', question: 'The Great Pyramid of Giza is located near Cairo.', answer: true },
+  { id: 'q2-papyrus-writing', question: 'Ancient Egyptians used papyrus to create writing material.', answer: true },
+  { id: 'q3-nile-flows-center', question: 'The Nile River flows through the center of Egypt.', answer: true },
+  { id: 'q4-tutankhamun-famous', question: 'Tutankhamun was a famous Egyptian pharaoh.', answer: true },
+  { id: 'q5-white-desert-forests', question: 'The White Desert is covered with green forests.', answer: false },
+  { id: 'q6-cats-respected', question: 'Cats were respected animals in Ancient Egypt.', answer: true },
+  { id: 'q7-abu-simbel-seacoast', question: 'Abu Simbel temples were built near the sea coast.', answer: false },
+  { id: 'q8-polytheism', question: 'Ancient Egyptians believed in many gods.', answer: true },
+  { id: 'q9-valley-of-kings-luxor', question: 'The Valley of the Kings is located in Luxor.', answer: true },
+  { id: 'q10-cleopatra-ruler', question: 'Cleopatra was one of the rulers of Ancient Egypt.', answer: true },
+  { id: 'q11-pyramids-built-tombs', question: 'Egyptian pyramids were mainly built as tombs.', answer: true },
+  { id: 'q12-alexandria-center-knowledge', question: 'Alexandria was an important center of knowledge in ancient times.', answer: true },
+  { id: 'q13-temples-made-wood', question: 'Ancient Egyptian temples were made mostly from wood.', answer: false },
+  { id: 'q14-sobek-crocodiles', question: 'Crocodiles were connected with the god Sobek.', answer: true },
+  { id: 'q15-sahara-covers-egypt', question: 'The Sahara Desert covers part of Egypt.', answer: true },
+  { id: 'q16-hieroglyphics-writing', question: 'Ancient Egyptians used hieroglyphics for writing.', answer: true },
+  { id: 'q17-lighthouse-seven-wonders', question: 'The Lighthouse of Alexandria was one of the Seven Wonders of the Ancient World.', answer: true },
+  { id: 'q18-ramses-ii-monuments', question: 'Ramses II was known for building giant monuments.', answer: true },
+  { id: 'q19-nile-shortest-river', question: 'The Nile River is the shortest river in the world.', answer: false },
+  { id: 'q20-karnak-in-egypt', question: 'The temples of Karnak are located in Egypt.', answer: true },
+];
