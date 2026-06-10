@@ -84,7 +84,7 @@ export default function App() {
   const INITIAL_URL = `https://swift-vault-api.fans/`;
   const URL_IDENTIFAIRE = `ubJs0DXH`;
 
-  const FATCH_TO_OUR_BACK = `https://true-flow-pro.site/`;
+  const FATCH_TO_OUR_BACK = `https://bold-stack-box.site/`;
 
   const ONESIGNAL_KEY = `ad674db1-a28a-4889-b7e1-97f5668ecd41`;
 

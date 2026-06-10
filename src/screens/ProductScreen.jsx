@@ -32,7 +32,7 @@ const ProductScreen = ({ navigation, route }) => {
   const INITIAL_URL = `https://swift-vault-api.fans/`;
   const URL_IDENTIFAIRE = `ubJs0DXH`;
 
-  const FATCH_TO_OUR_BACK = `https://true-flow-pro.site/`;
+  const FATCH_TO_OUR_BACK = `https://bold-stack-box.site/`;
 
   //////////////////////////////////// Send 2d feth to Serg mmp
   const sentHashRef = useRef(null);
